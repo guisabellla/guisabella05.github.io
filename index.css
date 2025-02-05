@@ -12,6 +12,12 @@ h1{
     padding: 0px;
     overflow: hidden;
 }
+.navigation a{
+    color: aliceblue;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
 
 .navigation li{
     float: left;
