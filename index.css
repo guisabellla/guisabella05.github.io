@@ -39,10 +39,11 @@ a:link:active, a:visited:active {
     color: blue;
   }
 
-#orange1{
-    text-align: center;
+div{
+    color: black;
 }
 
-.list li{
-    text-align: center;
+.divorange{
+    background-color: rgba(202, 200, 200, 0.799);
 }
+
