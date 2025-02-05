@@ -40,10 +40,9 @@ a:link:active, a:visited:active {
 div{
     text-decoration: dashed;
     text-align: center;
-
 }
 
-.divorange{
-    background-color: rgba(202, 200, 200, 0.799);
+#grey{
+    color: darkgrey;
 }
 
