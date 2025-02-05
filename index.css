@@ -2,9 +2,7 @@ body{
     background-color: rgb(209, 194, 243);
     margin: 0px;
 }
-h1{
-    text-align: center;
-}
+
 
 .navigation ul{
     list-style-type: none;
@@ -41,6 +39,8 @@ a:link:active, a:visited:active {
 
 div{
     text-decoration: dashed;
+    text-align: center;
+
 }
 
 .divorange{
