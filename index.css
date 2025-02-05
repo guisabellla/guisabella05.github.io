@@ -29,7 +29,12 @@ h1{
     float: left;
 }
 
-a{
+a:link, a:visited {
     color: blue;
-}
-
+    text-decoration: underline;
+    cursor: auto;
+  }
+  
+a:link:active, a:visited:active {
+    color: blue;
+  }
