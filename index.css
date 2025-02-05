@@ -22,7 +22,7 @@ h1{
 }
 
 .navigation a:hover{
-    background-color: azure;
+    background-color: rgba(224, 224, 224, 0.838);
 }
 
 .navigation li{
