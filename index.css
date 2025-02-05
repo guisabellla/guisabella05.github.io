@@ -38,3 +38,11 @@ a:link, a:visited {
 a:link:active, a:visited:active {
     color: blue;
   }
+
+#orange1{
+    text-align: center;
+}
+
+.list{
+    text-align: center;
+}
