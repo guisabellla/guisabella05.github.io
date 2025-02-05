@@ -40,7 +40,7 @@ a:link:active, a:visited:active {
   }
 
 div{
-    color: black;
+    text-decoration: dashed;
 }
 
 .divorange{
