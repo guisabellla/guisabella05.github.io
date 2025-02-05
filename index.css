@@ -55,3 +55,10 @@ span{
 #love{
     color: crimson;
 }
+
+@media screen and (min-width:800px) {
+    body{
+        background-color: aquamarine;
+    }
+    
+}
