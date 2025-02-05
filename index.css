@@ -42,10 +42,15 @@ div{
     text-align: center;
 }
 
-#grey{
+.grey{
     color: darkgrey;
 }
 
 span{
     color: darkgrey;
+    text-align: center;
+}
+
+#love{
+    color: crimson;
 }
